@@ -1,0 +1,81 @@
+{
+  "estudiantes": [
+    {
+      "id": "2",
+      "nombre": "Pepito",
+      "apellido": "Juarez",
+      "edad": 25,
+      "carrera": "Telecomunicaciones"
+    },
+    {
+      "id": "3",
+      "nombre": "Freddy",
+      "apellido": "Leaños",
+      "edad": 21,
+      "carrera": "Economia"
+    },
+    {
+      "id": "4",
+      "nombre": "Dietter",
+      "apellido": "Cardona",
+      "edad": 23,
+      "carrera": "Comunicaciones"
+    },
+    {
+      "id": "5",
+      "nombre": "Alberto",
+      "apellido": "Rojas",
+      "edad": 24,
+      "carrera": "Administración"
+    },
+    {
+      "nombre": "Roxanaaaaa",
+      "apellido": "Perez",
+      "edad": 21,
+      "carrera": "Ing. de Sistemas",
+      "id": "6"
+    },
+    {
+      "id": "35d0",
+      "nombre": "Freddy",
+      "apellido": "Leaños",
+      "edad": 21,
+      "carrera": "Economia"
+    },
+    {
+      "id": "17b2",
+      "nombre": "adsfasdfasdf",
+      "apellido": "sdfgsdfgs",
+      "edad": "56",
+      "carrera": "wertwertwertaaa"
+    },
+    {
+      "id": "197d",
+      "nombre": "Freddy",
+      "apellido": "Leaños",
+      "edad": 21,
+      "carrera": "Economia"
+    },
+    {
+      "nombre": "David Pedro",
+      "apellido": "Fortún",
+      "edad": "43",
+      "carrera": "Sistemasssss",
+      "id": "ed10"
+    },
+    {
+      "nombre": "PruebaNnuevoModificado",
+      "apellido": "ApellidoNuevoModificado",
+      "edad": "25",
+      "carrera": "CarreraNuevoModificado",
+      "id": "b1b7"
+    },
+    {
+      "id": "4c5a",
+      "nombre": "asdfa",
+      "apellido": "fdsa",
+      "edad": "34",
+      "carrera": "asdfasdf"
+    }
+  ]
+}
